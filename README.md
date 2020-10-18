@@ -1,1 +1,3 @@
-# EECS731-Project6
+# EECS731 Project6 - D(St)reams of Anomalies
+
+In this project, I perform Anomaly Detection on a given dataset for machine temperature readings with the goal of finding the anomalies where the temperature dips below a certain threshold. In particular, I perform detection on both the raw temperature readings and min-max normalized temperature readings. In the end, I find that some models can detect the anomalies on one form of the temperature readings, but not the other, while other models are able to detect only a subset, or none, of the anomalies across either forms.
